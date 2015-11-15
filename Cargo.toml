@@ -1,0 +1,7 @@
+[package]
+name = "dreidel"
+version = "0.0.1"
+authors = ["Mikael Voss <mvs@nya.yt>"]
+
+[dependencies]
+rand = "0.3"
